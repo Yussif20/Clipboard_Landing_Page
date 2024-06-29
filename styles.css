@@ -1,0 +1,172 @@
+/* General Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-size: 18px;
+}
+.container {
+  text-align: center;
+  padding: 80px 0;
+  margin: 0 auto;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+
+h1,
+h2,
+h3,
+h4,
+a {
+  color: hsl(210, 10%, 33%);
+}
+a {
+  text-decoration: none;
+}
+p {
+  color: hsl(201, 11%, 66%);
+}
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.cta-buttons button {
+  padding: 12px 24px;
+  border-radius: 18px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+}
+.cta-buttons button:first-child {
+  background-color: hsl(171, 66%, 44%);
+}
+.cta-buttons button:last-child {
+  background-color: hsl(233, 100%, 69%);
+}
+.cta-buttons button:first-child:hover {
+  background-color: hsl(171, 66%, 60%);
+}
+.cta-buttons button:last-child:hover {
+  background-color: hsl(233, 100%, 80%);
+}
+/* Header styles */
+.header {
+  background-image: url(./images/bg-header-desktop.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.header img {
+  margin: 24px 0;
+}
+.header h1 {
+  margin-bottom: 20px;
+}
+.header p {
+  margin-bottom: 32px;
+}
+
+/* Feature-section styles */
+.feature-section h2 {
+  margin-bottom: 24px;
+}
+
+/* Download-section styles */
+.download-section {
+  display: flex;
+  gap: 80px;
+}
+.download-content {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin: 24px auto;
+}
+.download-text {
+  margin-top: 36px;
+  width: 50%;
+}
+
+/* devices-section styles  */
+.devices-section {
+  margin: 36px 0;
+}
+.devices-image {
+  display: flex;
+  justify-content: center;
+}
+/* workflow section styles  */
+.workflow-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 36px;
+  margin: 36px 0;
+}
+.workflow-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+
+/* partners section styles */
+.partners-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.partners-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 64px;
+}
+
+/* Footer styles  */
+footer {
+  background-color: hsl(201, 11%, 90%);
+  padding: 24px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer-image {
+  flex: 0 0 15%;
+  display: flex;
+  justify-content: flex-end;
+}
+.footer-links {
+  flex: 0 0 50%;
+}
+
+.footer-links .first-row,
+.footer-links .second-row {
+  display: flex;
+  align-items: center;
+  justify-content: stretch;
+  gap: 34px;
+}
+
+.footer-links .first-row a,
+.footer-links .second-row a {
+  padding: 16px;
+}
+.socials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
