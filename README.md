@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution link]()
+- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/clipboard-landing-page-ZduUFwHAO_)
 - Live Site URL: [Clipboard landing page](https://clipboard-landing-page-dazai.netlify.app/)
 
 ### Built with
