@@ -17,6 +17,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [Solution link]()
 - Live Site URL: [Clipboard landing page](https://clipboard-landing-page-dazai.netlify.app/)
 
 ### Built with
@@ -24,8 +25,11 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- CSS Grid
 
 ## Author
 
+- Website - [Yusif Ayman](https://yussif20.github.io/main-portfolio/)
 - Github - [Yousef Ayman](https://github.com/Yussif20)
 - Linkedin - [Yousef Ayman](https://www.linkedin.com/in/yussif-ayman/)
+- Frontend Mentor - [testimonials-grid-solution](https://www.frontendmentor.io/profile/Yussif20)
