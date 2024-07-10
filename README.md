@@ -30,6 +30,6 @@ Users should be able to:
 ## Author
 
 - Website - [Yusif Ayman](https://yussif20.github.io/main-portfolio/)
-- Github - [Yousef Ayman](https://github.com/Yussif20)
-- Linkedin - [Yousef Ayman](https://www.linkedin.com/in/yussif-ayman/)
-- Frontend Mentor - [testimonials-grid-solution](https://www.frontendmentor.io/profile/Yussif20)
+- Github - [Yusif Ayman](https://github.com/Yussif20)
+- Linkedin - [Yusif Ayman](https://www.linkedin.com/in/yussif-ayman/)
+- Frontend Mentor - [Yusif Ayman](https://www.frontendmentor.io/profile/Yussif20)
